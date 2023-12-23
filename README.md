@@ -1,6 +1,3 @@
-Certainly! Below is a template for a `README.md` file for your GitHub repository hosting the Telegram bot. This README provides an overview of the bot, how to set it up, and important notes for users.
-
-```markdown
 # Telegram Clown Bot
 
 This repository contains the code for a Telegram bot that humorously modifies messages sent by a specific user in a Telegram group. When the bot detects a message from the user `@ema_pe`, it wraps the message with playful, clown-themed text.
@@ -75,7 +72,6 @@ If you want to contact me, you can reach me at `<your_email>`.
 ## License
 
 This project uses the following license: [MIT License](<link_to_license>).
-```
 
 ### Notes:
 - Replace placeholders like `https://github.com/yourusername/telegram-clown-bot.git`, `@yourusername`, and `<your_email>` with your actual GitHub repository URL, username, and contact email.
